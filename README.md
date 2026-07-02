@@ -12,9 +12,9 @@ A collection of data analysis and visualization projects completed during intern
 - **Tool:** Python (Jupyter Notebook)
 - **Description:** Exploratory data analysis of website traffic and user behavior data.
 
-### 3. HR Analytics Dashboard
+### 3. HR Analytics Dashboard - Attrition Analysis
 - **Tool:** Power BI
-- **Description:** Interactive dashboard analyzing HR data including employee performance, turnover, and workforce trends.
+- **Description:** Interactive dashboard analyzing employee attrition, including breakdowns by job role, department, age group, gender, and business travel.
 
 ## 🛠️ Technologies Used
 - Python (Pandas, Matplotlib)
