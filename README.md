@@ -21,7 +21,7 @@ A collection of data analysis and visualization projects completed during intern
 - Power BI
 - Jupyter Notebook
 
-#  E-Commerce Funnel Analysis
+# 4. E-Commerce Funnel Analysis
 
 An end-to-end funnel analysis project built on a simulated e-commerce user-behavior dataset, covering the full customer journey from **Browse → Add to Cart → Checkout → Purchase**. The project combines Python-based data analysis with interactive Power BI dashboards to uncover where users drop off and why.
 
