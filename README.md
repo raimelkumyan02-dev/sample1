@@ -85,4 +85,4 @@ The dataset used in this project is a **generated/synthetic dataset** created fo
 
 ---
 
-*If you found this project useful or have suggestions, feel free to open an issue or connect with me on LinkedIn.*
+*If you found this project useful or have suggestions, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/raisa-melkumian-8a4ab0238/.)*
