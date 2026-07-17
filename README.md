@@ -84,7 +84,7 @@ funnel-analysis-project/
 The dataset used in this project is a **generated/synthetic dataset** created for practice and portfolio purposes, and does not represent real company data.
 
 
-# 🏦 Bank Loan Report | Power BI Dashboard
+# 5․🏦 Bank Loan Report | Power BI Dashboard
 
 An interactive Power BI dashboard for analyzing a bank's loan portfolio — tracking loan applications, funded amounts, repayment performance, and risk indicators across multiple dimensions.
 
